@@ -1,0 +1,128 @@
+--------------------------------------------------------------------
+04-Jul-24 12:29:27 PM
+GUI
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Inventory.Login1.Page_Load(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 31
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+04-Jul-24 1:35:02 PM
+GUI
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Inventory.Login1.Page_Load(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 31
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+04-Jul-24 1:35:49 PM
+GUI
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Inventory.Login1.LoginButton_Click(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 68
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+04-Jul-24 4:59:00 PM
+GUI
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Inventory.Login1.Page_Load(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 31
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+04-Jul-24 5:00:37 PM
+GUI
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Inventory.Login1.LoginButton_Click(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 68
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+04-Jul-24 5:09:55 PM
+GUI
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Inventory.Login1.Page_Load(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 31
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+04-Jul-24 5:27:23 PM
+GUI
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Inventory.Login1.Page_Load(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 32
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+04-Jul-24 5:35:34 PM
+GUI
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Inventory.Login1.LoginButton_Click(Object sender, EventArgs e)
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+04-Jul-24 5:48:22 PM
+GUI
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Inventory.Login1.Page_Load(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 32
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+04-Jul-24 5:51:12 PM
+GUI
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Inventory.Login1.Page_Load(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 32
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+04-Jul-24 6:05:11 PM
+hdhhdhd
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Inventory.Login1.Page_Load(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 31
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+04-Jul-24 6:06:55 PM
+hdhhdhd
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Inventory.Login1.Page_Load(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 31
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+04-Jul-24 6:08:13 PM
+hdhhdhd
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Inventory.Login1.Page_Load(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 31
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+04-Jul-24 6:15:28 PM
+hdhhdhd
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Inventory.Login1.Page_Load(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 31
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+2024-07-04
+hdhhdhd
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Inventory.Login1.Page_Load(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Login1.aspx.cs:line 31
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+2024-07-12
+GUI
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at Inventory.Categoriesss.btnDownload_Click(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Categoriesss.aspx.cs:line 274
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+2024-07-12
+GUI
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at Inventory.Categoriesss.btnPdf_Click(Object sender, EventArgs e) in E:\Test\Inventory\Inventory\Categoriesss.aspx.cs:line 364
+--------------------------------------------------------------------
